@@ -14,6 +14,10 @@ namespace ConsoleApplication1
             // komentarz
             // komentarz// komentarz// komentarz
             // komentarz// komentarz// komentarz
+
+            // komentarz
+            // komentarz// komentarz// komentarz
+            // komentarz// komentarz// komentarz
         }
     }
 }
